@@ -1,0 +1,6 @@
+#ifndef INTRINSICS_H_INCLUDED
+#define INTRINSICS_H_INCLUDED
+
+// dummy
+
+#endif /* INTRINSICS_H_INCLUDED */
